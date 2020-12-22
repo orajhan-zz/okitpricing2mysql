@@ -1,5 +1,7 @@
 # okitpricing2mysql (WIP for integration)
-moving okit pricing database from Oracle Autonomous DB(ADB) to MySQL container
+moving okit pricing database from Oracle Autonomous DB(ADB) to a local MySQL container.
+Currently, okit is deployed locally in your laptop and it retrieves pricing information from database running in Oracle cloud, which is managed by myself.
+Plan is to have a local database running in docker to minimize latency. 
 
 Now I am accessing Oracle ADB using ORDS(Oracle REST Data Services), I will do the same approach to minimize my code changes.
 
