@@ -1,2 +1,2 @@
 # okitpricing2mysql
-moving okit pricing database from Oracle Autonomous DB to MySQL
+moving okit pricing database from Oracle Autonomous DB to MySQL container
