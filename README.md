@@ -13,7 +13,7 @@ Quick demo access (not the latest version): http://okit.oci.cool/okit/designer
 
 ### Run REST API
 ```sh
-python app.py
+python rest.py
 ```
 
 ![](images/test.png)
